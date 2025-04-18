@@ -1,7 +1,8 @@
 # Conquistas e Certificados
-## Threat Intel 
-### Tools: VirusTotal ANY.RUN
-https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/oski/
+## WebStrike
+- Threat Intel _with_ VirusTotal, ANY.RUN
+- https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/oski/
 
-## WebStrike Lab - Network Forensics | Wireshark
-https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/webstrike/
+## Lab: WebStrike Lab - 
+- Network Forensics _with_ Wireshark
+- https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/webstrike/
