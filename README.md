@@ -1,5 +1,5 @@
-# Achievements
-## WebStrike
+# Conquistas e Certificados
+## Oski
 Threat Intel _with_ VirusTotal, ANY.RUN
 - https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/oski/
 
