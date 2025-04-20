@@ -7,6 +7,10 @@ Threat Intel _with_ VirusTotal, ANY.RUN
 Network Forensics _with_ Wireshark
 - https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/webstrike/
 
+## PoisonedCredentials - CyberDefenders
+Network Forensics _with_ Wireshark
+- https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/poisonedcredentials/ 
+
 ## Resposta a Incidentes e Forense - Hackers do Bem
 Resposta a Incidentes _with_ Splunk, ELK Stack, Wireshark, Autopsy
 
