@@ -19,6 +19,10 @@ Endpoint Forensics _with_ Volatility 3
 Threat Intel _with_ Sherlock, OSTIN Tools
 - https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/lespion/
 
+## The Crime Lab - CyberDefenders
+Endpoint Forensics _with_ ALEAPP, DB Browser for SQLite
+- https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/the-crime/
+
 ## Resposta a Incidentes e Forense - Hackers do Bem
 Resposta a Incidentes _with_ Splunk, ELK Stack, Wireshark, Autopsy
 
