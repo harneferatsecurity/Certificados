@@ -11,6 +11,10 @@ Network Forensics _with_ Wireshark
 Network Forensics _with_ Wireshark
 - https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/poisonedcredentials/
 
+## Yellow RAT Lab - CyberDefenders
+Threat Intel _with_ VirusTotal
+- https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/yellow-rat/ 
+
 ## Amadey - CyberDefenders
 Endpoint Forensics _with_ Volatility 3
 - https://cyberdefenders.org/blueteam-ctf-challenges/achievements/aima.harnefer/amadey/
